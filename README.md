@@ -1,4 +1,4 @@
-# Milk-quality-prediction
+# Milk Quality Prediction
 
 ### About dataset
 This dataset is manually collected from observations. It helps us to build machine learning models to predict the quality of milk.
